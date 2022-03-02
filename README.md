@@ -1,1 +1,1 @@
-##This is the beginning of the shell projects
+## This is the root README for the shell project
